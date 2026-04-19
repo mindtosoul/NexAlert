@@ -13,7 +13,7 @@
 
 **NexAlert** is a highly scalable, enterprise-grade Next-Gen Wrong-Way Driver Detection & V2X (Vehicle-to-Everything) Alert System. The core directive of the project is **"Zero Hardcoding. Pure Logical Code."** It dynamically queries OpenStreetMap (OSM) data, runs real-time map matching, and computes anomalies purely through geospatial logic.
 
-The system bridges a simulated environment (or CSV replay telemetry) with real-world ML-based anomaly detection and physical hardware alerts, creating a comprehensive prototype for Next-Gen V2X Safety Systems.
+The system bridges a simulated environment (or CSV replay telemetry) with real-world ML-based anomaly detection and physical hardware alerts, creating a comprehensive prototype for Next-Gen V2X Safety Systems..
 
 ## ✨ Key Features
 
